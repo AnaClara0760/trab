@@ -1,0 +1,3 @@
+id,username,email,senha,autenticacao_habilitada,codigo_autenticacao,criado_em,perfil
+1,rei,rei@teste,$2y$10$qOhp5INqOPKCE2qK4XEKAOUkihT973eJUpfhAQYxvU5.ch9NTMTWK,0,,"2024-08-15 15:04:35",admin
+2,bispo,bispo@teste,$2y$10$PBk8Uw2IPk80kKvwd8h4ie6lKetNqEDQcQHZahRcvI1tOPkl8ESmy,1,475423,"2024-08-15 15:06:37",user
